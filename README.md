@@ -1,41 +1,56 @@
-# 💻 Meu Portfólio Pessoal  
+# 💻 Portfólio Pessoal  
 
-![image](https://github.com/user-attachments/assets/c5969f5b-fa03-4ade-b3bb-5fb211e780ea)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/c5969f5b-fa03-4ade-b3bb-5fb211e780ea)
 
-Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para demonstrar minhas habilidades em **HTML, CSS e design front-end**, seguindo boas práticas de **acessibilidade, SEO e responsividade**.  
-
----
-
-## 🚀 Tecnologias Utilizadas  
-✔ **HTML5** (Semântica, Acessibilidade)  
-✔ **CSS3** (Flexbox, Variáveis, Animações)  
-✔ **Design Responsivo** (Mobile-First)  
-✔ **Git** (Versionamento)  
+Bem-vindo ao repositório do meu portfólio pessoal!  
+Este projeto foi desenvolvido para apresentar minhas habilidades em **HTML, CSS** e **design front-end**, seguindo boas práticas de **acessibilidade**, **SEO** e **responsividade**.
 
 ---
 
-## 📂 Estrutura do Projeto  
+## 🚀 Tecnologias Utilizadas
 
-### 📄 HTML  
-- **Estrutura semântica** (`<main>`, `<section>`, `<footer>`)  
-- **SEO otimizado** (metatags, `lang="pt-BR"`)  
-- **Efeito de digitação** no título (simulando máquina de escrever)  
-
-### 🎨 CSS  
-- **Variáveis CSS** para cores e espaçamentos  
-- **Flexbox** para alinhamento e organização  
-- **Media Queries** para responsividade:  
-  - 📱 **Mobile** (coluna única)  
-  - 💻 **Desktop** (layout em linha)  
-- **Animações suaves** (`hover`, `keyframes`)  
-
-### 🖼️ Imagens  
-- **Otimizadas** (lazy loading)  
-- **Borda circular** na foto de perfil  
+- ✅ **HTML5** – Estrutura semântica e acessível  
+- ✅ **CSS3** – Estilização moderna com Flexbox, variáveis e animações  
+- ✅ **Responsividade** – Layout adaptado para diferentes tamanhos de tela (Mobile First)  
+- ✅ **Git** – Controle de versionamento  
 
 ---
 
-## 🔍 Como Visualizar  
-1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-portfolio.git
+## 📁 Estrutura do Projeto
+
+### 📄 HTML
+- Uso de tags semânticas como `<main>`, `<section>`, `<footer>`
+- Configuração de SEO com metatags e atributo `lang="pt-BR"`
+- Efeito de digitação no título (simulando máquina de escrever)
+
+### 🎨 CSS
+- Utilização de **variáveis CSS** para consistência em cores e espaçamentos  
+- **Flexbox** para estruturação e alinhamento de elementos  
+- **Media Queries** para responsividade:
+  - 📱 **Mobile** – Layout em coluna única
+  - 💻 **Desktop** – Layout com colunas e alinhamento horizontal
+- Animações suaves com `hover` e `@keyframes`
+
+### 🖼️ Imagens
+- Otimizadas com **lazy loading**
+- Estilizadas com **bordas circulares** para a foto de perfil
+
+---
+
+## 🔎 Como Visualizar
+
+Você pode acessar o portfólio online por este link:
+
+🔗 [Clique aqui para acessar o portfólio](https://portifolio-bay-xi.vercel.app/)
+
+---
+
+## 📬 Contato
+
+Caso queira entrar em contato ou conversar sobre projetos, sinta-se à vontade para me chamar!  
+Você também pode conferir mais sobre mim acessando o portfólio.
+
+---
+
+🎯 **Obrigado por visitar!**  
+Sinta-se à vontade para clonar, dar uma estrela ⭐ ou enviar sugestões.
