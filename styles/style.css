@@ -28,7 +28,7 @@
 body{
     background-color: var(--bg-soft);
     font-family: 'Inter', sans-serif;
-    max-height: 100vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
