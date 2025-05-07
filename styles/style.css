@@ -28,7 +28,7 @@
 body{
     background-color: var(--bg-soft);
     font-family: 'Inter', sans-serif;
-    min-height: 100vh;
+    max-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,9 +97,12 @@ body{
     content: " >";
 }
 #about-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: var(--espaco-extra);
     width: 100%;
-    max-width: 80vh;
+    max-width: 95vh;
 }
 #about-w-img{
     display: flex;
@@ -124,6 +127,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 80%;
     justify-content: center;
     margin-top: var(--espaco-grande);
     gap: var(--espaco-medio);
@@ -131,13 +135,13 @@ body{
 .github-btn-img{
     width: 30px;
     height: 30px;
-    background-image: url("/src/img/github-mark-white.png");
+    background-image: url("/src/img/github-White.png");
     background-size: contain;
     background-repeat: no-repeat;
     transition: all 0.3s ease;
 }
 .btn:hover .github-btn-img, .btn:active .github-btn-img{
-    background-image: url("/src/img/github-mark.png");
+    background-image: url("/src/img/github-Black.png");
 }
 .linkedin-btn-img{
     width: 30px;
@@ -149,6 +153,17 @@ body{
 }
 .btn:hover .linkedin-btn-img, .btn:active .linkedin-btn-img{
     background-image: url("/src/img/InBug-Black.png");
+}
+.dotJosn-btn-img{
+    width: 30px;
+    height: 30px;
+    background-image: url("/src/img/dotJosn-White.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: all 0.3s ease;
+}
+.btn:hover .dotJosn-btn-img, .btn:active .dotJosn-btn-img{
+    background-image: url("/src/img/dotJosn-Black.png");
 }
 #copy{
     color: var(--light-green);
