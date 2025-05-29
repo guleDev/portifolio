@@ -1,6 +1,7 @@
 # 💻 Portfólio Pessoal  
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/c5969f5b-fa03-4ade-b3bb-5fb211e780ea)
+![Portfolio Screenshot](https://github.com/user-attachments/assets/d2ba6084-14f4-4684-92a4-2d9d45a2b4b6)
+
 
 Bem-vindo ao repositório do meu portfólio pessoal!  
 Este projeto foi desenvolvido para apresentar minhas habilidades em **HTML, CSS** e **design front-end**, seguindo boas práticas de **acessibilidade**, **SEO** e **responsividade**.
