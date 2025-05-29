@@ -48,6 +48,7 @@ Você pode acessar o portfólio online por este link:
 
 ## 📬 Contato
 
+Email: gule.dev64@gmail.com
 Caso queira entrar em contato ou conversar sobre projetos, sinta-se à vontade para me chamar!  
 Você também pode conferir mais sobre mim acessando o portfólio.
 
