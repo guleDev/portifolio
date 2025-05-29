@@ -42,7 +42,7 @@ Este projeto foi desenvolvido para apresentar minhas habilidades em **HTML, CSS*
 
 Você pode acessar o portfólio online por este link:
 
-🔗 [Clique aqui para acessar o portfólio](https://portifolio-bay-xi.vercel.app/)
+🔗 [Clique aqui para acessar o portfólio](https://portifolio-guledevs-projects.vercel.app/)
 
 ---
 
