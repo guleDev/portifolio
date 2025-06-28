@@ -157,13 +157,13 @@ body{
 .dotJosn-btn-img{
     width: 30px;
     height: 30px;
-    background-image: url("/src/img/dotJosn-White.png");
+    background-image: url("/src/img/josn-White.png");
     background-size: contain;
     background-repeat: no-repeat;
     transition: all 0.3s ease;
 }
 .btn:hover .dotJosn-btn-img, .btn:active .dotJosn-btn-img{
-    background-image: url("/src/img/dotJosn-Black.png");
+    background-image: url("/src/img/josn-Black.png");
 }
 #copy{
     color: var(--light-green);
